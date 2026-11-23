@@ -8,12 +8,6 @@ RSA y mostrar el proceso matemático. La versión web utiliza Streamlit; el prof
 puede usarla desde el navegador cuando esté publicada, sin instalar dependencias.
 Los algoritmos matemáticos son los mismos que en la aplicación de escritorio.
 
-## Acceso por enlace
-
-El enlace definitivo se obtiene al publicar la aplicación. Registrarlo en
-`ENLACE_WEB.txt`, en este apartado y en Canvas. Este paquete todavía no tiene
-una dirección pública asignada. Ver [PUBLICAR_WEB.md](PUBLICAR_WEB.md).
-
 ## Requisitos para ejecutar o publicar
 
 - Python **3.10 o superior**; se recomienda **Python 3.12** para el despliegue.
